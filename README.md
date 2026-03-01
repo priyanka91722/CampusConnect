@@ -1,4 +1,3 @@
-A Campus Connect Application that acts as a centralized communication and collaboration platform for educational institutions. The system provides role-based access for students, faculty, and administrators, ensuring that information reaches the appropriate users. Features such as centralized announcements, academic updates, event notifications, and resource sharing help reduce dependency on multiple tools. Real-time notifications ensure timely dissemination of information, while a secure login system maintains data privacy. The application enhances campus engagement, improves communication efficiency, and simplifies administrative processes by bringing all campus-related interactions onto a single, unified platform.
 
 > Why do I have a folder named ".expo" in my project?
 
